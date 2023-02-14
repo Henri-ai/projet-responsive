@@ -1,0 +1,15 @@
+@font-face {
+    font-family: "CatullBQ Bold";
+    src: url('../font/CatullBQ\ Bold.ttf');
+}
+
+@font-face {
+    font-family: "CatullBQ Regular";
+    src: url('../font/CatullBQ\ Regular.ttf');
+}
+
+@font-face {
+    font-family: "CatullBQ Italic";
+    src: url('../font/CatullBQ\ Italic.ttf');
+}
+
