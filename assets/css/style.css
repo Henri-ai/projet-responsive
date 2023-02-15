@@ -13,11 +13,6 @@
     src: url('../font/CatullBQ\ Italic.ttf');
 }
 
-nav{
-    opacity: 0.90;
-}
-
-
 * {
     color: #D4D6B9;
     font-family: "CatullBQ Regular";
