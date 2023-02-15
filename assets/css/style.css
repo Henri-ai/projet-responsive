@@ -13,3 +13,19 @@
     src: url('../font/CatullBQ\ Italic.ttf');
 }
 
+
+
+* {
+    color: #D4D6B9;
+    font-family: "CatullBQ Regular";
+}
+h5 {
+    color: #D5BF86 !important;
+}
+.videoDesktop {
+    height: 80%;
+    width: 80%;
+    float: left;
+    border: rgb(213,191,134,.5) 2px solid;
+    box-shadow: 0px 0px 15px 4px #D5BF86;
+}
