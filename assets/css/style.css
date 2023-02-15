@@ -13,3 +13,24 @@
     src: url('../font/CatullBQ\ Italic.ttf');
 }
 
+
+
+* {
+    color: #D4D6B9;
+    font-family: "CatullBQ Regular";
+}
+
+.buynow{
+    color: #D5BF86;
+    cursor: pointer;
+    background-color: transparent;
+    border: 1px solid #D5BF86;
+    display: block;
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: 0 0 10px #D4D6B9, 0 0 20px #D4D6B9, 0 0 40px #D4D6B9;
+    margin-top: 10px;
+    margin: 0 auto;
+    padding: 5px;
+    width: 150px;
+}
