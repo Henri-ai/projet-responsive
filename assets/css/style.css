@@ -64,3 +64,9 @@ body {
         border: rgb(213,191,134,.5) 2px solid;
         box-shadow: 0px 0px 15px 4px #D5BF86;
 }
+.navAnchor {
+    color: #D4D6B9;
+    font-size: 16px;
+    text-decoration: none;
+    text-shadow: 0 0 10px #D4D6B9, 0 0 20px #D4D6B9, 0 0 40px #D4D6B9;
+}
